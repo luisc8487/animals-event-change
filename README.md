@@ -2,6 +2,8 @@
 
 React Application that allows users to generate and display random animals with a fun interactive feature.
 
+![animals](https://github.com/user-attachments/assets/f59ba7f0-49a9-489c-a108-57dc5bb38fa6)
+
 ## Features
 
 - A button labeled **"Click Me!"** that, when clicked, randomly selects an animal from a predefined list and displays it on the screen.
