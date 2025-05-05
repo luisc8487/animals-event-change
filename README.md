@@ -24,3 +24,10 @@ React Application that allows users to generate and display random animals with 
 
 - Each animal is displayed with a heart icon.
 - Clicking on the animal image triggers an `onClick` event handler that increases the size of the heart icon.
+
+## How to Run the App
+
+1. Clone the repository to your local machine.
+2. Navigate to the project directory and install dependencies using `npm install`.
+3. Start the development server with `npm start`.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
