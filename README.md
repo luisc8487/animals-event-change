@@ -37,3 +37,9 @@ React Application that allows users to generate and display random animals with 
 - **`App.js`**: Contains the main logic for generating random animals and rendering the list.
 - **`AnimalShow.js`**: A component responsible for displaying individual animals and handling the heart icon interaction.
 - **`App.css`** and **`AnimalShow.css`**: Stylesheets for the app and the animal display.
+
+## Key Concepts
+
+- **React Hooks**: The `useState` hook is used to manage the state of the animal list and the heart size.
+- **Event Handling**: The `onClick` event handler is used to detect user interactions and update the state.
+- **Dynamic Rendering**: The `map` method is used to dynamically render components based on the current state.
