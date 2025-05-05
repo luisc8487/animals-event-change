@@ -31,3 +31,9 @@ React Application that allows users to generate and display random animals with 
 2. Navigate to the project directory and install dependencies using `npm install`.
 3. Start the development server with `npm start`.
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
+
+## File Structure
+
+- **`App.js`**: Contains the main logic for generating random animals and rendering the list.
+- **`AnimalShow.js`**: A component responsible for displaying individual animals and handling the heart icon interaction.
+- **`App.css`** and **`AnimalShow.css`**: Stylesheets for the app and the animal display.
